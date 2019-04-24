@@ -1,0 +1,1 @@
+export const getResultCompetitions= state => state.footballDataReducer || {};

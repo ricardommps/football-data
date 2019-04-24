@@ -1,0 +1,42 @@
+{
+    "title": "Ricardo Matta Machado",
+    "type": "Front-End",
+    "technicalKnowledge": [
+        {
+            "name": "React",
+            "level": "Advanced"
+        },
+        {
+            "name": "Redux",
+            "level": "Advanced"
+        },
+        {
+            "name": "AngularJs",
+            "level": "Advanced"
+        },
+        {
+            "name": "Angular 2",
+            "level": "Advanced"
+        },
+        {
+            "name": "VueJs",
+            "level": "Basic",
+            "comments": "Course in progress"
+        }
+    ],
+    "personalInfo":[
+        {
+            "type":"proactive",
+            "value": "true"
+        },
+        {
+            "type":"innovative",
+            "value": "true"
+        },
+        {
+            "type":"self-taught",
+            "value": "true"
+        }
+    ]
+
+  }
